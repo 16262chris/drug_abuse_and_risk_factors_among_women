@@ -1,2 +1,3 @@
-# drug_abuse_and_risk_factors_among_women
-Exploratory data analysis and predictive modeling of drug abuse and risk factors among women
+# Drug Abuse and Risk Factors Among Women 
+
+##This project investigates **drug abuse and its associated risk factors among women** using statistical analysis and machine learning. The repository includes a Jupyter Notebook that demonstrates data preprocessing, exploratory data analysis (EDA), visualization, and predictive modeling. 
